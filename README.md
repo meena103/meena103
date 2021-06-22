@@ -15,7 +15,7 @@
 <!-- [<img align="left" alt="Vaibhav Meena | LinkedIn" width="22px" src="https://www.linkedin.com/in/vaibhav-meena-41b1961a0/" />][linkedin]
 [<img align="left" alt="Vaibhav Meena  | Instagram" width="22px" src="https://instagram.com/vaibhavmeena049?utm_medium=copy_link" />][instagram]
  -->
-[<img align="left" alt="Vaibhav Meena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/vaibhav-meena-41b1961a0/]
+[<img align="left" alt="https://www.linkedin.com/in/vaibhav-meena-41b1961a0/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="vaibhavmeena049 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!-- <br />
