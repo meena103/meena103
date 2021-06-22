@@ -15,7 +15,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/vaibhav-meena-41b1961a0/" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://instagram.com/vaibhavmeena049?utm_medium=copy_link" />][instagram]
 
-<br />
+<!-- <br />
 
 ### Languages and Tools:
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][webdevplaylist]
@@ -39,7 +39,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 
-<br />
+<br /> -->
 <br />
 
 ---
