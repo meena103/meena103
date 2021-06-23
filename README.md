@@ -1,4 +1,4 @@
-### Hi there, I'm Vaibhav Meena  👋
+### Hi there, I'm Vaibhav Meena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I'm Flutter developer
 - 💼 Education: Electrical Engineering at IIT Jodhpur, India
@@ -29,10 +29,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-src="https://camo.githubusercontent.com/812b910fbdc5becadcae6c884ff1bb1712583914/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"/>
-
-
-
 
 
 <br />
