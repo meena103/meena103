@@ -28,12 +28,11 @@
 
 
 <br />
+<br />
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/uon86rkggm581djhvo4qh1mzq?si=60cb8532ca344fe9)
-
-
-<br />
 
 [instagram]: https://instagram.com/vaibhavmeena049?utm_medium=copy_link
 [linkedin]: https://www.linkedin.com/in/vaibhav-meena-41b1961a0/
